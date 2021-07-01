@@ -3,7 +3,7 @@ package examples;
 public class StaticSuper {
 
     static {
-        System.out.println("Super static block");
+        System.out.println("Super static block!");
     }
 
     StaticSuper() {
